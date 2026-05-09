@@ -48,5 +48,6 @@
 
 * [MSFMamba 笔记](./notes/msfmamba.md)
 * [Swin Transformer 笔记](./notes/swin_transformer.md)
+* [Attention 与 Transformer（底层与梯度）](./Some_Thoughts/attention和transformer.md)
 
 ---
